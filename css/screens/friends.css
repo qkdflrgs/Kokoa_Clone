@@ -5,6 +5,7 @@
     padding: 15px 0px;
     font-size: 18px;
     margin-bottom: 10px;
+    margin-top: -10px;
 }
 
 #friends-display-link i {
@@ -26,8 +27,4 @@
     display: flex;
     justify-content: space-between;
     color: rgba(0, 0, 0, 0.5);
-}
-
-.user-component__column:last-child {
-    color: rgba(0, 0, 0, 0.5); 
 }
